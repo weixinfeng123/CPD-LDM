@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="diff_dce" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.9.25 (sftp://root@connect.cqa1.seetacloud.com:17155/root/miniconda3/envs/diff_dce/bin/python3) (2)" project-jdk-type="Python SDK" />
+</project>
